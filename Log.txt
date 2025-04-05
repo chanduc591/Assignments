@@ -1,0 +1,1 @@
+print write is a valid
