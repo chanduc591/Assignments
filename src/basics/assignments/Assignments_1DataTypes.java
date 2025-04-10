@@ -1,6 +1,7 @@
-package language.basics;
+package basics.assignments;
 
 public class Assignments_1DataTypes {
+	
 	public static void main(String[] args) {
 
 		// 1. Temperature of a city in degrees Celsius: 25.5
